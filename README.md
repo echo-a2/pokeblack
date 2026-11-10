@@ -15,3 +15,5 @@ It builds the following ROM:
 [decomp.dev]: https://decomp.dev/squiddonaut/pokeblack
 [Report]: https://github.com/squiddonaut/pokeblack/actions/workflows/report.yml/badge.svg
 [actions]: https://github.com/squiddonaut/pokeblack/actions/workflows/report.yml
+
+I will be using this repo to (hopefully) web port the game without the use of an emulator
